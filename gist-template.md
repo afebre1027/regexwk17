@@ -25,10 +25,7 @@ This searches two different expressions. Below we are going to explain what some
 - [Flags](#flags)
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+
 
 ## Regex Components
 
@@ -84,7 +81,6 @@ This searches two different expressions. Below we are going to explain what some
 
 - [a-fA-F0-9] - search for lowercase and uppercase letters a-f, also searches numbers 0-9 together.
 
-### Greedy and Lazy Match
 
 ## Author
 
